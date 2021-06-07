@@ -1,1 +1,1 @@
-export { default as Home } from "@/components/templates/Home.vue";
+export { default as HomeTemplate } from "@/components/templates/HomeTemplate.vue";

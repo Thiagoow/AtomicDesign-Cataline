@@ -1,16 +1,11 @@
 <template>
-  <div class="app">
-    <Home />
-  </div>
+  <HomePage />
 </template>
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import { Home } from "@/components/templates";
-
+import { HomePage } from "@/components/pages";
 export default defineComponent({
-  components: { Home },
+  components: { HomePage },
 });
 </script>
-
-<style lang="scss" scoped></style>
