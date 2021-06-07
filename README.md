@@ -11,13 +11,13 @@ tendo como base o <a href="https://www.youtube.com/watch?v=AwRb8LX-szg">tutorial
 
 ## Demo: https://web-productcard-ui.herokuapp.com/
 
-## Project setup
+### Para instalar o projeto localmente, com a pasta "node_modules"
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Para compilar/executar o projeto localmente:
 
 ```
 npm run serve
