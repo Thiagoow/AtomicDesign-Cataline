@@ -1,5 +1,5 @@
 import { createApp } from "vue";
-import App from "./App.vue";
+import App from "./Website.vue";
 import "normalize.css";
 import "@/assets/css/main.css";
 
