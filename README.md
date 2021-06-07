@@ -10,7 +10,7 @@ tendo como base, as aulas de Atomic Design, no Bootcamp Full Stack da <a href="h
 
 ## Demo: https://atomic-design-cataline.herokuapp.com/
 
-##### Para instalar o projeto localmente, com a pasta "node_modules"
+##### Para instalar o projeto localmente, com a pasta "node_modules":
 
 ```
 npm install
