@@ -1,4 +1,4 @@
 <?php 
 //Aqui fica a sua home.html:
-include_once("Website.vue");
+include_once("../Website.vue");
 ?>
