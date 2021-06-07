@@ -6,7 +6,7 @@
 # Web Product Card UI - Responsive and animated
 
 <p>Esse projeto foi feito por: <strong>Thiago Silva Lopes</strong>, em 06/2021,</br>
-tendo como base as aulas de Atomic Design, no Bootcamp Full Stack da <a href="https://bootcamp.cataline.io/">Cataline</a>
+tendo como base, as aulas de Atomic Design, no Bootcamp Full Stack da <a href="https://bootcamp.cataline.io/">Cataline</a>
 
 ## Demo: https://web-productcard-ui.herokuapp.com/
 
