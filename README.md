@@ -3,7 +3,7 @@
 <img src="./ReadMeFiles/app.jpg" align="center">
 </div>
 
-# Web Product Card UI - Responsive and animated
+# Marcos - Website de portfólio
 
 <p>Esse projeto foi feito por: <strong>Thiago Silva Lopes</strong>, em 06/2021,</br>
 tendo como base, as aulas de Atomic Design, no Bootcamp Full Stack da <a href="https://bootcamp.cataline.io/">Cataline</a>
