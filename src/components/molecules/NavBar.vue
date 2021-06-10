@@ -8,12 +8,12 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
-import { NavItem } from '@/components/atoms'
+import { defineComponent } from "vue";
+import { NavItem } from "@/components/atoms";
 
 export default defineComponent({
   components: { NavItem }
-})
+});
 </script>
 
 <style lang="scss" scoped>

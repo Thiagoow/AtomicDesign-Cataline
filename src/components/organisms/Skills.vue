@@ -16,12 +16,12 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
-import { Skill } from '@/components/molecules'
+import { defineComponent } from "vue";
+import { Skill } from "@/components/molecules";
 
 export default defineComponent({
   components: { Skill }
-})
+});
 </script>
 
 <style lang="scss" scoped>

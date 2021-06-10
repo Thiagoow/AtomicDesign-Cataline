@@ -3,13 +3,13 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
-import { Logo } from '@/components/atoms'
-import { NavBar, Pesquisa } from '@/components/molecules'
+import { defineComponent } from "vue";
+import { Logo } from "@/components/atoms";
+import { NavBar, Pesquisa } from "@/components/molecules";
 
 export default defineComponent({
   components: { Logo, NavBar, Pesquisa }
-})
+});
 </script>
 
 <style lang="scss" scoped>

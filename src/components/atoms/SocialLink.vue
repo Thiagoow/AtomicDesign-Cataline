@@ -7,7 +7,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from 'vue'
+import { defineComponent } from "vue";
 
 export default defineComponent({
   props: {
@@ -18,10 +18,10 @@ export default defineComponent({
   computed: {
     //Para definir o caminho dos ícones e não se repetir sempre:
     iconPath(): string {
-      return require(`@/assets/images/icons/${this.icon}`)
+      return require(`@/assets/images/icons/${this.icon}`);
     }
   }
-})
+});
 </script>
 
 <style lang="scss" scoped>
