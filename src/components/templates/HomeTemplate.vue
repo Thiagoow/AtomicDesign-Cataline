@@ -7,13 +7,13 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import { Container } from "@/components/bosons";
-import { Header, Presentation, Skills } from "@/components/organisms";
+import { defineComponent } from 'vue'
+import { Container } from '@/components/bosons'
+import { Header, Presentation, Skills } from '@/components/organisms'
 
 export default defineComponent({
-  components: { Container, Header, Presentation, Skills },
-});
+  components: { Container, Header, Presentation, Skills }
+})
 </script>
 
 <style lang="scss" scoped>

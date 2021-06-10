@@ -19,5 +19,5 @@ npm install
 ##### Para compilar/executar o projeto localmente:
 
 ```
-npm run serve
+npm run dev
 ```

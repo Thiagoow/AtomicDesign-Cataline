@@ -1,6 +1,6 @@
-import { createApp } from "vue";
-import App from "./Website.vue";
-import "normalize.css";
-import "@/assets/css/main.css";
+import { createApp } from 'vue'
+import App from './Website.vue'
+import 'normalize.css'
+import '@/assets/css/main.css'
 
-createApp(App).mount("#app");
+createApp(App).mount('#app')

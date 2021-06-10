@@ -7,12 +7,12 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import { SocialLink } from "@/components/atoms";
+import { defineComponent } from 'vue'
+import { SocialLink } from '@/components/atoms'
 
 export default defineComponent({
-  components: { SocialLink },
-});
+  components: { SocialLink }
+})
 </script>
 
 <style lang="scss" scoped>

@@ -7,21 +7,21 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
+import { defineComponent } from 'vue'
 
 export default defineComponent({
   props: {
     name: { type: String, required: true },
     link: { type: String, required: true },
-    icon: { type: String, required: true },
+    icon: { type: String, required: true }
   },
   computed: {
     //Para definir o caminho dos ícones e não se repetir sempre:
     iconPath(): string {
-      return require(`@/assets/images/icons/${this.icon}`);
-    },
-  },
-});
+      return require(`@/assets/images/icons/${this.icon}`)
+    }
+  }
+})
 </script>
 
 <style lang="scss" scoped>

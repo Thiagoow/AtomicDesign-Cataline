@@ -11,12 +11,12 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import { SocialNetworks } from "@/components/molecules";
+import { defineComponent } from 'vue'
+import { SocialNetworks } from '@/components/molecules'
 
 export default defineComponent({
-  components: { SocialNetworks },
-});
+  components: { SocialNetworks }
+})
 </script>
 
 <style lang="scss" scoped>

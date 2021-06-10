@@ -18,8 +18,8 @@
 </template>
 
 <script lang="ts">
-import { defineComponent } from "vue";
-import { HomeTemplate } from "@/components/templates";
+import { defineComponent } from 'vue'
+import { HomeTemplate } from '@/components/templates'
 
 export default defineComponent({
   components: { HomeTemplate },
@@ -27,6 +27,6 @@ export default defineComponent({
   injetados no Vuex, aqui com o tag template.*/
   created() {
     //Chamada/requisição na API
-  },
-});
+  }
+})
 </script>
